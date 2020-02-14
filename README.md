@@ -1,0 +1,2 @@
+# loss-given-default
+The CNB bank wants to automate the loss estimation based on customer detail provided while applying for loan. These details are Age, Years of Experience, Number of cars, Gender, Marital Status. To automate this process, they have given a problem to identify the loss estimation given that the customers is a defaulter, those are eligible for loan amount so that they get to know what features are leading to defaults up to which amount. Here are the details about the data set.
